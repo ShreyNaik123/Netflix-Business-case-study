@@ -20,24 +20,7 @@ To run the analysis locally, you'll need the following tools and libraries:
 - Plotly (optional, for interactive visualizations)
 - Jupyter Notebook or Google Colab
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/netflix-business-case-study.git](https://github.com/ShreyNaik123/Netflix-Business-case-study.git)
-   cd netflix-business-case-study
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-## How to Use
-1. Open the notebook in Jupyter or Colab:
-   ```bash
-   jupyter notebook
-   ```
-2. Navigate to the `notebooks/` folder and run the provided notebooks to explore insights and visualizations.
-3. Refer to the `Netflix_business_case_study.pdf` for a detailed report on the findings and recommendations.
 
 ## Key Insights
 Some of the notable insights from the analysis include:
