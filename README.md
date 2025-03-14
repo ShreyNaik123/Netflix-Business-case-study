@@ -45,17 +45,4 @@ Some of the notable insights from the analysis include:
 - Country-wise content production strategies.
 - Recommendations for Netflix's growth in emerging markets.
 
-## Future Improvements
-- Expanding the dataset with more recent data.
-- Integrating machine learning models for content recommendation.
-- Building an interactive dashboard for data visualization.
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue if you have ideas to improve the project.
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
-
-## Contact
-For questions or collaboration, reach out to [your email/contact information].
 
